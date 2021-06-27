@@ -1,0 +1,13 @@
+{
+   "DEFAULTS": {
+    "AUTHORS": ["536242373856854068"],
+    "ACTIVITY_TEXT": "Usta Welcome",
+    "GUILD_ID": "806963284150321162",
+    "VOICE_CHANNEL": "853602613215756299",
+    "MIN_STAFF_ROLE": "806963284179157050"
+  },
+  "FILES": {
+    "WELCOME": "https://cdn.discordapp.com/attachments/844644872559657000/846101189066358804/welcome.mp3",
+    "STAFF": "https://cdn.discordapp.com/attachments/539483171331375142/855441848444387358/staff_1_2.mp3"
+  }
+}
